@@ -26,7 +26,7 @@ I'm a passionate Software Engineer with a strong background in AI/ML, robotics, 
 ### KnoWhiz
 
 * **Co-Founder & Tech Lead** | Bellevue, WA (Remote) | Jan 2024 - Feb 2025
-I led the development of **education AI agent** [https://www.knowhiz.us/]
+I led the development of **education AI agent** [link](https://www.knowhiz.us/)
 
 ### JHU ARCADE Lab
 
@@ -35,7 +35,7 @@ I led the development of **education AI agent** [https://www.knowhiz.us/]
 
 ## 🔗 Connect with me!
 
-* **LinkedIn:** [yqbrucezhang](https://www.linkedin.com/in/yqbrucezhang/)
+* **LinkedIn:** [link](https://www.linkedin.com/in/yqbrucezhang/)
 
-* **Google Scholar:** [Yuqian Zhang](https://scholar.google.com/citations?user=0Cg_pk0AAAAJ&hl=en)
+* **Google Scholar:** [link](https://scholar.google.com/citations?user=0Cg_pk0AAAAJ&hl=en)
 ---
