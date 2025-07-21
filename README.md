@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there, I'm Yuqian (Bruce) Zhang! 👋
 
-<!--
-**brucehacker66/brucehacker66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**University of Pennsylvania** | Philadelphia, PA
+*Master in Robotics* | Aug 2026
+
+**Johns Hopkins University** | Baltimore, MD
+*Bachelor of Science in Computer Science & Electrical Engineering* | Dec 2024
+*GPA: 3.88/4 (Charles A Conklin Award for outstanding ECE seniors & Honors)*
+
+## 💼 Work Experience
+
+### Google
+**Software Engineer Intern** | Sunnyvale, CA | May 2025 - Aug 2025
+
+### Amazon Robotics
+**Software Development Engineer Intern** | Boston, MA | Jan 2025 - May 2025
+
+### KnoWhiz
+**Co-Founder & Tech Lead** | Bellevue, WA (Remote) | Jan 2024 - Feb 2025
+I led the development of **education AI agent**<https://www.knowhiz.us/>
+
+### JHU ARCADE Lab
+**AI Researcher** | Baltimore, MD | Feb 2023 - Dec 2024
+
+
+## 🔗 Connect with me!
+
+* **LinkedIn:** <https://www.linkedin.com/in/yqbrucezhang/>
+
+* **Google Scholar:** <https://scholar.google.com/citations?user=0Cg_pk0AAAAJ&hl=en>
+---
