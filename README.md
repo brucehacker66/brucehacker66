@@ -1,5 +1,7 @@
 ## Hi there, I'm Yuqian (Bruce) Zhang! 👋
 
+I'm a passionate Software Engineer with a strong background in AI/ML, robotics, and full-stack development. I enjoy building scalable and efficient systems that solve complex problems.
+
 ---
 
 ## 🎓 Education
@@ -14,22 +16,26 @@
 ## 💼 Work Experience
 
 ### Google
-**Software Engineer Intern** | Sunnyvale, CA | May 2025 - Aug 2025
+
+* **Software Engineer Intern** | Sunnyvale, CA | May 2025 - Aug 2025
 
 ### Amazon Robotics
-**Software Development Engineer Intern** | Boston, MA | Jan 2025 - May 2025
+
+* **Software Development Engineer Intern** | Boston, MA | Jan 2025 - May 2025
 
 ### KnoWhiz
-**Co-Founder & Tech Lead** | Bellevue, WA (Remote) | Jan 2024 - Feb 2025
+
+* **Co-Founder & Tech Lead** | Bellevue, WA (Remote) | Jan 2024 - Feb 2025
 I led the development of **education AI agent**<https://www.knowhiz.us/>
 
 ### JHU ARCADE Lab
-**AI Researcher** | Baltimore, MD | Feb 2023 - Dec 2024
+
+* **AI Researcher** | Baltimore, MD | Feb 2023 - Dec 2024
 
 
 ## 🔗 Connect with me!
 
-* **LinkedIn:** <https://www.linkedin.com/in/yqbrucezhang/>
+* **LinkedIn:** [yqbrucezhang](https://www.linkedin.com/in/yqbrucezhang/)
 
-* **Google Scholar:** <https://scholar.google.com/citations?user=0Cg_pk0AAAAJ&hl=en>
+* **Google Scholar:** [Yuqian Zhang](https://scholar.google.com/citations?user=0Cg_pk0AAAAJ&hl=en)
 ---
