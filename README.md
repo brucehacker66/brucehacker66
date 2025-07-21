@@ -18,19 +18,22 @@ I'm a passionate Software Engineer with a strong background in AI/ML, robotics, 
 ### Google
 
 * **Software Engineer Intern** | Sunnyvale, CA | May 2025 - Aug 2025
+* Cloud AI & Infra
 
 ### Amazon Robotics
 
 * **Software Development Engineer Intern** | Boston, MA | Jan 2025 - May 2025
+* Manipulation robots
 
 ### KnoWhiz
 
 * **Co-Founder & Tech Lead** | Bellevue, WA (Remote) | Jan 2024 - Feb 2025
-I led the development of **education AI agent** [link](https://www.knowhiz.us/)
+* I led the development of **education AI agent** [link](https://www.knowhiz.us/)
 
 ### JHU ARCADE Lab
 
 * **AI Researcher** | Baltimore, MD | Feb 2023 - Dec 2024
+* AI, Medical Robotics, Computer Vision
 
 
 ## 🔗 Connect with me!
