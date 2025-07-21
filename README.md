@@ -26,7 +26,7 @@ I'm a passionate Software Engineer with a strong background in AI/ML, robotics, 
 ### KnoWhiz
 
 * **Co-Founder & Tech Lead** | Bellevue, WA (Remote) | Jan 2024 - Feb 2025
-I led the development of **education AI agent**<https://www.knowhiz.us/>
+I led the development of **education AI agent** [https://www.knowhiz.us/]
 
 ### JHU ARCADE Lab
 
