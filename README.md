@@ -35,6 +35,16 @@ I'm a passionate Software Engineer with a strong background in AI/ML, robotics, 
 * **AI Researcher** | Baltimore, MD | Feb 2023 - Dec 2024
 * AI, Medical Robotics, Computer Vision
 
+### United Imaging
+
+* **Research Intern** | Houston, TX | May 2024 - Aug 2024
+* AI, ML Infra, HPC, Medical Imaging
+
+### WeRide
+
+* **Software Engineer Intern** | Guangzhou, China | May 2023 - Aug 2023
+* Infra
+
 
 ## 🔗 Connect with me!
 
