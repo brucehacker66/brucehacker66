@@ -10,7 +10,7 @@ I'm a passionate Software Engineer with a strong background in AI/ML, robotics, 
 *Master in Robotics* | Aug 2026
 
 **Johns Hopkins University** | Baltimore, MD
-*Bachelor of Science in Computer Science & Electrical Engineering* | Dec 2024
+*Bachelor of Science in Computer Science & Electrical Engineering* | Dec 2024  
 *Charles A Conklin Award for outstanding ECE seniors & Honors*
 
 ## 💼 Work Experience
