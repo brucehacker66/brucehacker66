@@ -11,7 +11,7 @@ I'm a passionate Software Engineer with a strong background in AI/ML, robotics, 
 
 **Johns Hopkins University** | Baltimore, MD
 *Bachelor of Science in Computer Science & Electrical Engineering* | Dec 2024
-*GPA: 3.88/4 (Charles A Conklin Award for outstanding ECE seniors & Honors)*
+*Charles A Conklin Award for outstanding ECE seniors & Honors*
 
 ## 💼 Work Experience
 
