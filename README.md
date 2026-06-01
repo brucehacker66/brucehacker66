@@ -59,7 +59,7 @@ Built end-to-end as the sole engineer and product owner: an AI-native marketplac
  
 ## 🔗 Connect with me!
  
-* 🌐 **Website:** https://YOUR-USERNAME.github.io
+* 🌐 **Website:** https://brucehacker66.github.io
 * 💼 **LinkedIn:** [yqbrucezhang](https://www.linkedin.com/in/yqbrucezhang/)
 * 🎓 **Google Scholar:** [profile](https://scholar.google.com/citations?user=0Cg_pk0AAAAJ&hl=en)
 ---
